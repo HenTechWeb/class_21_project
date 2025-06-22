@@ -46,5 +46,4 @@ case $choice in
         ;;
 esac
 #This calculator has been improved
-#Some of the changes made 
 #include the name of the calculator
