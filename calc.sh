@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This a simple calculator for simple metrics
 # CALCULATOR FOR BASIC MATHEMATICS
 
 echo "CALCULATOR"
